@@ -3,7 +3,7 @@ Data Analyst
 
 
 ### О Себе
-Привет, меня зовут Иван! Несколько лет проработал в продажах, после чего удалось перейти в отдел анализа продаж. Работая аналитиком отдела продаж я очень сильно увлекся данными и захотел развиваться в этом направлении - поступил в Яндекс Практикум и далее еще дополнительно закончил онлай-стажировку в KarpovCourses.
+Привет, меня зовут Иван! Несколько лет проработал в продажах, после чего удалось перейти в отдел анализа продаж. Работая аналитиком отдела продаж я очень сильно увлекся данными и захотел развиваться в этом направлении - поступил в Яндекс Практикум и далее еще дополнительно закончил стажировку в KarpovCourses. На данный момент я владею всеми необходимыми знаниями и инструментами для работы аналитиком данных. 
 
 
 ### Популярные проекты
@@ -32,12 +32,22 @@ Data Analyst
 
 
 ### Сертификаты
+![Merged_document](https://user-images.githubusercontent.com/110673529/231454749-84a33876-aaba-4b7f-8384-be8f3eb8c9d9.jpg)
+---
+![карпов курс](https://user-images.githubusercontent.com/110673529/231456207-df8a57cc-75d5-489d-b232-3a51fd119dd5.png)
+---
+![stepik-certificate-SQL-GlebM_page-0001](https://user-images.githubusercontent.com/110673529/231455077-38449d2f-76d3-45c2-9ffc-fed43506c6be.jpg)
+---
+![stepik-certificate-SQL_traning_page-0001](https://user-images.githubusercontent.com/110673529/231455139-4bed9531-122c-445f-9c1e-e6bef73ea12f.jpg)
+---
+![stepik-certificate-Basic_Statistic_page-0001](https://user-images.githubusercontent.com/110673529/231455164-d52fb5a1-1455-4a48-9361-6959e4e3a0b5.jpg)
+---
+**Ссылки на сертификаты**
 - [Диплом о профессиональной переподготовке по профессии "Аналитик данных"](https://disk.yandex.ru/i/UGBVGsNG5U3DkQ)
 - [Стажировка на продуктового аналитика в KarpovCourses](https://disk.yandex.ru/i/SW2M_z8rVTApeQ)
 - [Изучил SQL для анализа данных с Глебом Михайловым](https://disk.yandex.ru/i/WLscsAtng42w3w)
 - [Прошел интерактивнй тренажер по SQL](https://disk.yandex.ru/i/51hzXH26JX5wBA)
 - [Изучил основы статистики](https://disk.yandex.ru/i/FInDmFeVTiYkBg)
-
 
 ### Контакты
 - [телеграм](https://t.me/ivan_skl88)

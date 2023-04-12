@@ -31,15 +31,15 @@ Data Analyst
 
 
 ### Stack
-- Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy)
-- SQL (PostgreSQL, MySQL, ClickHouse)
-- А/В-тесты и статистика
-- BI-системы (Tableau, Redash, Superset)
-- Презентации (PowerPoint)
-- Git
-- Airoflow
-- Excel
-- Яндекс.Директ и Яндекс.Метрика 
+:heavy_check_mark: **Python** (`Pandas` `Seaborn` `Matplotlib` `Statsmodels` `NumPy` `SciPy` *и другие библиотеки*) </br>
+:heavy_check_mark: **SQL** (`PostgreSQL` `MySQL` `ClickHouse`) </br>
+:heavy_check_mark: **А/В-тесты и статистика** </br>
+:heavy_check_mark: **BI**-системы (`Tableau` `Redash` `Superset`) </br>
+:heavy_check_mark: **Презентации** (`PowerPoint`) </br>
+:heavy_check_mark: **Git** </br>
+:heavy_check_mark: **Airoflow** </br>
+:heavy_check_mark: **Excel** </br>
+:heavy_check_mark: **Яндекс.Директ и Яндекс.Метрика** </br>
 
 
 ### Сертификаты
@@ -51,6 +51,6 @@ Data Analyst
 
 
 ### Контакты
-- [Телеграм](https://t.me/ivan_skl88)
-- <len-trafic@yandex.ru>
+- [телеграм](https://t.me/ivan_skl88)
+- почта - <len-trafic@yandex.ru>
 
